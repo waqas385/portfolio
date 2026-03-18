@@ -1,73 +1,150 @@
-# Welcome to your Lovable project
+# 🌐 Personal Portfolio – Waqas Ahmed
 
-## Project info
+Welcome to my personal portfolio website:
+👉 [https://waqasahmed.pk/](https://waqasahmed.pk/)
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+This project showcases my skills, projects, and experience as a **Backend Developer / Node.js Developer** with a strong focus on modern web technologies.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Tech Stack
 
-**Use Lovable**
+This portfolio is built using modern frontend tools and libraries:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+* ⚡ **Vite** – Fast build tool
+* ⚛️ **React 18** – UI library
+* 🟦 **TypeScript** – Type-safe JavaScript
+* 🎨 **Tailwind CSS** – Utility-first styling
+* 🧩 **shadcn/ui + Radix UI** – Accessible UI components
+* 🔄 **React Router DOM** – Routing
+* 📦 **React Query (@tanstack/react-query)** – Data fetching & caching
+* 🎞️ **Framer Motion** – Animations
+* 📊 **Recharts** – Data visualization
+* 🧠 **Zod + React Hook Form** – Form validation
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 📂 Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+* ✨ Clean and modern UI/UX
+* 📱 Fully responsive design
+* 🌙 Dark/Light theme support
+* ⚡ Optimized performance with Vite
+* 🎯 Component-based architecture
+* 📊 Interactive UI elements and animations
+* 🔍 Easy navigation between sections
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠️ Getting Started
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 1️⃣ Clone the repository
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+---
+
+### 3️⃣ Run development server
+
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### 4️⃣ Build for production
 
-**Use GitHub Codespaces**
+```bash
+npm run build
+```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+### 5️⃣ Preview production build
 
-This project is built with:
+```bash
+npm run preview
+```
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 📜 Available Scripts
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+| Script            | Description              |
+| ----------------- | ------------------------ |
+| `npm run dev`     | Start development server |
+| `npm run build`   | Build for production     |
+| `npm run preview` | Preview production build |
+| `npm run lint`    | Run ESLint               |
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## 📁 Project Structure (Simplified)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+```
+src/
+│── components/     # Reusable UI components
+│── pages/          # Application pages
+│── hooks/          # Custom hooks
+│── lib/            # Utility functions
+│── assets/         # Images & static files
+│── App.tsx         # Main app component
+│── main.tsx        # Entry point
+```
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
+
+## 🎯 About Me
+
+I am a passionate **Backend Developer** specializing in:
+
+* Node.js / NestJS
+* REST APIs & Microservices
+* Authentication & Authorization (JWT, RBAC)
+* MySQL with TypeORM
+
+I enjoy building scalable systems and clean user experiences.
+
+---
+
+## 🌍 Live Website
+
+👉 [https://waqasahmed.pk/](https://waqasahmed.pk/)
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and feedback are welcome!
+Feel free to fork this repo and submit a pull request.
+
+---
+
+## 📧 Contact
+
+If you'd like to work together or have any questions:
+
+* 🌐 Website: [https://waqasahmed.pk/](https://waqasahmed.pk/)
+* 💼 LinkedIn: [https://pk.linkedin.com/in/waqasahmed385](https://pk.linkedin.com/in/waqasahmed385)
+* 📧 Email: <waqas385@gmail.com>
+
+---
+
+## ⭐ Support
+
+If you like this project, don’t forget to ⭐ the repository!
+
+---
+
+### ⚡ Built with passion by ~~Waqas Ahmed~~ Lovable AI 
