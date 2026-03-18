@@ -147,4 +147,4 @@ If you like this project, don’t forget to ⭐ the repository!
 
 ---
 
-### ⚡ Built with passion by ~~Waqas Ahmed~~ Lovable AI 
+### ⚡ Built with passion by ~~Waqas Ahmed~~ [Lovable AI](https://lovable.dev/)
