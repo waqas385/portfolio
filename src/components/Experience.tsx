@@ -14,7 +14,7 @@ const experiences = [
   {
     title: "Senior Front-End Developer",
     company: "Netshore",
-    location: "Lahore",
+    location: "Islamabad",
     period: "Jan 2017 - Jan 2024",
     description: "Part of Atea FE team working on eShop (B2B) e-commerce solution. Upgraded Vue.js from v2 to v3, conducted code reviews, and managed development build processes.",
     technologies: ["Vue.js", "JavaScript", "Java", "Webpack", "LESS", "A11Y"],
