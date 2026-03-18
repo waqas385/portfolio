@@ -110,7 +110,7 @@ const Contact = () => {
               {/* Social links */}
               <div className="flex justify-center gap-4 mt-8">
                 <a
-                  href="https://github.com/"
+                  href="https://github.com/waqas385"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 rounded-full bg-secondary/10 flex items-center justify-center text-muted-foreground hover:bg-primary hover:text-primary-foreground transition-all duration-300"
@@ -118,7 +118,7 @@ const Contact = () => {
                   <Github className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://linkedin.com/in/"
+                  href="https://pk.linkedin.com/in/waqasahmed385"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 rounded-full bg-secondary/10 flex items-center justify-center text-muted-foreground hover:bg-primary hover:text-primary-foreground transition-all duration-300"
