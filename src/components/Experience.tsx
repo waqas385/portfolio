@@ -1,11 +1,11 @@
 import { motion } from "framer-motion";
-import { Briefcase, Calendar, MapPin } from "lucide-react";
+import { Calendar, MapPin } from "lucide-react";
 
 const experiences = [
   {
-    title: "Back-End Developer",
+    title: "Senior Software Engineer",
     company: "The Neo Solutions",
-    location: "Remote",
+    location: "Lahore",
     period: "May 2024 - Present",
     description: "Managing & creating RESTful APIs for e-commerce and social apps using Nest.js, MySQL & PostgreSQL. Handling integrations with Stripe, payment gateways, and AWS S3.",
     technologies: ["Nest.js", "Node.js", "MySQL", "PostgreSQL", "AWS", "React"],
